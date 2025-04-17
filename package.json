@@ -1,0 +1,12 @@
+{
+    "name": "rgb-color-palette-generator",
+    "version": "1.0.0",
+    "description": "RGBのカラーパレットを生成するツールです。VRC Color Changerにて使用されています。",
+    "main": "main.js",
+    "keywords": [],
+    "author": "pukorufu",
+    "license": "MIT",
+    "dependencies": {
+        "canvas": "^3.1.0"
+    }
+}
